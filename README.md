@@ -80,14 +80,7 @@ You can edit messages freely and reload in-game:
 
 ## Project Structure
 
-src/
- ├── main/
- │   ├── java/com/ellie/sabinha/
- │   │   ├── Sabinha.java
- │   │   └── SabinhaCommand.java
- │   └── resources/
- │       ├── plugin.yml
- │       └── config.yml
+src/ ├── main/ │ ├── java/com/ellie/sabinha/ │ │ ├── Sabinha.java │ │ └── SabinhaCommand.java │ └── resources/ │ ├── plugin.yml │ └── config.yml
 
  ---
 
