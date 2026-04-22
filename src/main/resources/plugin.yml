@@ -1,0 +1,9 @@
+name: Sabinha
+version: 1.0.0
+main: com.ellie.sabinha.Sabinha
+api-version: "1.21"
+
+commands:
+  sabinha:
+    description: Mensagem da Sabinha
+    usage: /sabinha
